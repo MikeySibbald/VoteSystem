@@ -1,3 +1,9 @@
-candidate 1, partyA
-candidate 2, partyB
-candidate 3, partyC
+Gerry O'Rourke, Brown Party
+Jake Duggan, Republicans
+Jim Corcoran, Dunnes Party
+Adriaan Winkle, Tryhards
+------------------------------
+1234
+4321
+3214
+2413
