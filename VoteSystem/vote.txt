@@ -1,10 +1,17 @@
-Gerry O'Rourke, Brown Party
-Jake Duggan, Republicans
-Jim Corcoran, Anti-Dunnes Party
-Adriaan Winkle, Tryhards
+A, Party A
+B, Party B
+C, Party C
+D, Party D
+E, Party E
 ------------------------------
-1234
-4321
-3214
-2413
-1324
+12345
+42135
+21354
+54321
+12345
+31452
+54321
+54321
+43215
+34125
+12345
